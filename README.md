@@ -18,12 +18,12 @@ TextUtils is a web appliation built using ReactJS. It is a text analyzer applica
 
 ### The Project
 
-TextUtils is a text analyzer web application built using ReactJS. It can be used to analyze a given text. TextUtils can count the no. of words and characters present in the text. It can also calculate an average time required to read the text. There is a set of operation given to user which can be performed on the text. The operation provide are
-`Convert to Upercase`: Convert all the letters in the text to UpperCase characters
-`Convert to Lowercase`: Convert all the letters in the text to Lowercase characters
-`Clear`: Deletes the whole text
-`Copy text`: Copies the text to clipboard
-`Remove extra space`: Removes any extra spaces present in the text.
+TextUtils is a text analyzer web application built using ReactJS. It can be used to analyze a given text. TextUtils can count the no. of words and characters present in the text. It can also calculate an average time required to read the text. There is a set of operation given to user which can be performed on the text. The operation provided are:
+- `Convert to Upercase`: Convert all the letters in the text to UpperCase characters
+- `Convert to Lowercase`: Convert all the letters in the text to Lowercase characters
+- `Clear`: Deletes the whole text
+- `Copy text`: Copies the text to clipboard
+- `Remove extra space`: Removes any extra spaces present in the text.
 
 There three options for Dark Mode available - `Dark Blue` `Dark Red` `Dark Green` 
 
