@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# TextUtils | Analyze your text
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextUtils is a web appliation built using ReactJS. It is a text analyzer application. User can also perform a set of given operation on the text.
 
-## Available Scripts
+## Table Of Contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The Project](#the-project)
+  - [Screenshot](#screenshot)
+  - [Link](#link)
+- [Development](#development)
+  - [Tech Stack](#tech-stack)
+  - [What i learned](#what-i-learned)
+  - [Useful Resources](#useful-resources)
+- [Author](#author)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### The Project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+TextUtils is a text analyzer web application built using ReactJS. It can be used to analyze a given text. TextUtils can count the no. of words and characters present in the text. It can also calculate an average time required to read the text. There is a set of operation given to user which can be performed on the text. The operation provide are
+`Convert to Upercase`: Convert all the letters in the text to UpperCase characters
+`Convert to Lowercase`: Convert all the letters in the text to Lowercase characters
+`Clear`: Deletes the whole text
+`Copy text`: Copies the text to clipboard
+`Remove extra space`: Removes any extra spaces present in the text.
 
-### `npm test`
+There three options for Dark Mode available - `Dark Blue` `Dark Red` `Dark Green` 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Front End design of the project is fully-responsive.
 
-### `npm run build`
+### Screenshot
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![TextUTils](./textutils.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Link
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Live Site URL](https://yash1699.github.io/textutils/)
 
-### `npm run eject`
+## Development
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Tech Stack
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- HTML5 markup
+- CSS custom properties
+- Bootstrap
+- Javascript
+- ReactJS Library
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### What i learned
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+I learned using ReactJs by building this awesome project. I learned to implement dark mode which was a plus for me.
 
-## Learn More
+### Useful Resources
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+There were times when i got stuck on some things while working on this project, for which i took help from a few websites which was very much helpful for me. The websites that helped me the most are:
+- [StackOverflow](https://stackoverflow.com) for debugging and
+- [YouTube](https://youtube.com) for learning new things.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub - [@yash1699](https://github.com/yash1699)
+- LinkedIn - [@yash-verma-5a84641a9](https://linkedin.com/in/yash-verma-5a84641a9)
